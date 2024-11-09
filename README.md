@@ -7,3 +7,5 @@ I graduated from Department of Mathemetics in the University of Ilorin, Kwara St
 i did my NYSC in Maiduguri where I was posted to United Bank for Africa (UBA) as my place of primary assignment.
 I am married with three children.
 08-11-2024
+# markdown
+this repo is to show how to use markdown
